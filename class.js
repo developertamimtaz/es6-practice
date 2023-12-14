@@ -1,3 +1,4 @@
+//Javascript Class
 class Student{
     constructor(sId, sName){
         this.id = sId;
